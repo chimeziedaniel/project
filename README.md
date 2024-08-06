@@ -1,0 +1,2 @@
+# project
+Simple interest calculator
